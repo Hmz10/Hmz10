@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hmz10
-- 👀 I’m interested in Computer Science.
+- 👀 I interested in Computer Science.
 - 🌱 I’m currently learning Introduction to Computer Science at Harvard University on edx.
 - 💞️ I’m looking to collaborate on Computer Science.
 - 📫 How to reach me my goal.
